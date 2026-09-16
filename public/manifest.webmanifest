@@ -1,0 +1,32 @@
+{
+  "name": "ProofPay",
+  "short_name": "ProofPay",
+  "description": "Pay Safe. Pay Smart. Secure escrow payments for trusted trade.",
+  "start_url": "/mobile",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#F7FCF9",
+  "theme_color": "#0B8F52",
+  "categories": ["finance", "business", "utilities"],
+  "icons": [
+    {
+      "src": "/proofpay-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/proofpay-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {"name":"Send Payment","short_name":"Send","url":"/mobile?screen=send","icons":[{"src":"/proofpay-icon.svg","sizes":"any","type":"image/svg+xml"}]},
+    {"name":"Transactions","short_name":"Transactions","url":"/mobile?screen=transactions","icons":[{"src":"/proofpay-icon.svg","sizes":"any","type":"image/svg+xml"}]},
+    {"name":"Support","short_name":"Support","url":"/mobile?screen=support","icons":[{"src":"/proofpay-icon.svg","sizes":"any","type":"image/svg+xml"}]}
+  ]
+}
