@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ProofPay fingerprint payment icon">
+  <rect width="512" height="512" rx="112" fill="#ffffff"/>
+  <g transform="translate(42 28)" fill="none" stroke-linecap="round">
+    <path d="M78 267C78 129 150 47 264 47c109 0 182 72 182 175 0 92-61 164-150 164" stroke="#16ad61" stroke-width="29"/>
+    <path d="M116 316v-75c0-104 58-168 148-168 87 0 145 60 145 151 0 74-49 133-118 133" stroke="#0c8f52" stroke-width="29"/>
+    <path d="M161 353V239c0-74 40-119 103-119 62 0 103 42 103 106 0 57-36 97-90 97" stroke="#067448" stroke-width="29"/>
+    <path d="M205 389V242c0-40 23-67 59-67 37 0 60 25 60 62" stroke="#043f30" stroke-width="29"/>
+  </g>
+  <circle cx="301" cy="211" r="72" fill="#e8b23a" stroke="#f6cf67" stroke-width="10"/>
+  <text x="301" y="234" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="800" fill="#07543a">$</text>
+</svg>
